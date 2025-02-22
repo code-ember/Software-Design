@@ -1,4 +1,4 @@
-# CS-320 Software Design
+# Software Design
 
 ### How can I ensure that my code, program, or software is functional and secure?
 Ensuring that my code is functional and secure involves developing code that meets the requirements and has been proven to work. This includes rigorous testing, code reviews, and adhering to best practices for security and functionality.
