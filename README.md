@@ -1,7 +1,10 @@
-# CS-320-Project
+# CS-320 Software Design
 
-1. How can I ensure that my code, program, or software is functional and secure? Ensuring that my code is functional and secure by developing code that meets the requirements and that has been proven to work.
+## How can I ensure that my code, program, or software is functional and secure?
+Ensuring that my code is functional and secure involves developing code that meets the requirements and has been proven to work. This includes rigorous testing, code reviews, and adhering to best practices for security and functionality.
 
-2. How do I interpret user needs and incorporate them into a program? Understand and know the user needs by focusing on their goals rather than their preferences. Also, always listen to the user requirements in order to design a successful software for that user.
+## How do I interpret user needs and incorporate them into a program?
+Understanding user needs involves focusing on their goals rather than their preferences. It’s crucial to listen to user requirements and prioritize their objectives to design a successful software that meets their expectations and solves their problems effectively.
 
-3. How do I approach designing software? The approach is the most importment and useful part in the development process for meeting the needs of the user in order to develop the software design.
+## How do I approach designing software?
+Approaching software design is the most important and useful part of the development process. It involves understanding the user's needs, planning a cohesive design, and using iterative development to ensure that the software meets the user's requirements. This approach helps in creating a functional and user-friendly software solution.
