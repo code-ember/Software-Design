@@ -8,3 +8,5 @@ Understanding user needs involves focusing on their goals rather than their pref
 
 ### How do I approach designing software?
 Approaching software design is the most important and useful part of the development process. It involves understanding the user's needs, planning a cohesive design, and using iterative development to ensure that the software meets the user's requirements. This approach helps in creating a functional and user-friendly software solution.
+
+## CS-320
